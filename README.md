@@ -1,7 +1,5 @@
 # IPCA in MicroCaps
 
-This project analyzes IPCA data in microcap stocks.
-
 ## Requirements
 
 - Python 3.x
