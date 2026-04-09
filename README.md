@@ -20,7 +20,11 @@
 
 ## Usage
 
-Open and run `EDA.ipynb` in Jupyter Notebook to perform the analysis.
+Open and run `IPCAfinal` in Jupyter Notebook to perform the analysis.
+
+## Note
+
+Project is unfinished, note will be removed when finished
 
 ## License
 
