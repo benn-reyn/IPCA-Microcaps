@@ -20,7 +20,7 @@
 
 ## Usage
 
-Open and run `IPCAfinal` in Jupyter Notebook to perform the analysis.
+Open and run `pipeline` then `IPCAfinal` in Jupyter Notebook to perform the analysis. Will need access to WRDS.
 
 ## Note
 
