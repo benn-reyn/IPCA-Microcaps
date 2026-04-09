@@ -26,6 +26,3 @@ Open and run `IPCAfinal` in Jupyter Notebook to perform the analysis.
 
 Project is unfinished, note will be removed when finished
 
-## License
-
-[Add license if applicable]
