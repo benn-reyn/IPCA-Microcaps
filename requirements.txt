@@ -1,8 +1,0 @@
-# requirements.txt
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-wrds
-dotenv
